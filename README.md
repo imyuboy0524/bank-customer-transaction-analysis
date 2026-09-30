@@ -23,6 +23,12 @@
 
 ## Dataset
 
+**資料來源：** [Bank Customer Segmentation (1M+ Transactions) - Kaggle](https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation)
+
+資料集包含超過 100 萬筆銀行客戶交易紀錄，主要欄位包含客戶基本資料、帳戶餘額、交易日期與交易金額等。
+
+> 原始資料集未包含於本 Repository 中，請至 Kaggle 原始資料頁面取得。
+
 原始資料包含約 **104 萬筆銀行交易紀錄**，主要欄位包括：
 
 - Customer ID
