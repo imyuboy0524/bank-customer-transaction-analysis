@@ -1,0 +1,13 @@
+# Raw dataset
+data/bank_transactions.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
